@@ -222,6 +222,7 @@
   * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
+  * [PDNS-Console](https://gitlab.deblan.org/deblan/pdns-console) - PDNS-Console provided a CLI to manage PowerDNS application and improved it by adding a powerfull DNS zone versionning.
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * Revision Control
